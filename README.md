@@ -1,4 +1,4 @@
 # 21-school.pool
-Projects form 21-school's Pool
-T - individual project
-P - group project
+<br/>Projects form 21-school's Pool
+<br/>T - individual project
+<br/>P - group project
